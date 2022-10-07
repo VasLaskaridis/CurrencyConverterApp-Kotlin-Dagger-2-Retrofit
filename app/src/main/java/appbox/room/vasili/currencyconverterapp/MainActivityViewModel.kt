@@ -1,7 +1,5 @@
 package appbox.room.vasili.currencyconverterapp
 
-
-
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import appbox.room.vasili.currencyconverterapp.retrofit.Repository
